@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  PRXcodeProject
+//
+//  Created by Ihar Krauchuk on 22.11.21.
+//  Copyright © 2021 iKrauchuk. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+EXAMPLE_API_KEY_FROM_XCCONFIG = This string was written in the Development.xcconfig file
